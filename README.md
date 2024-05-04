@@ -1,5 +1,4 @@
-## step 1: clone the project.
-- git clone https://github.com/saleh1995/saleh1995-emessa_back-sp.1.1.git
+## step 1: clone the project
 
 
 ## step 2: download the database
